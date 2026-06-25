@@ -9,7 +9,7 @@ The **🎛️ KMS Core Manager** is a centralized activation control platform th
 
 <div align="center">
 
-[![Download KMS Core Manager](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-core-manager)
+[![Download KMS Core Manager](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-core-manager)
 
 </div>
 
@@ -112,7 +112,7 @@ You need a core manager. Centralized control. Unified interface. Complete visibi
 4. **✅ Select installation type** — Core Server or Management Console
 5. **🚀 Launch KMS Core Manager** from desktop shortcut
 
-[![Download KMS Core Manager](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-core-manager)
+[![Download KMS Core Manager](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-core-manager)
 
 ### Command Center Dashboard
 
@@ -463,7 +463,7 @@ Centralized command center for activation management. **KMS Core Manager** gives
 
 <div align="center">
 
-[![Download KMS Core Manager](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-core-manager)
+[![Download KMS Core Manager](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-core-manager)
 
 **Version 4.0.0** — Centralized activation control. Free forever.
 
